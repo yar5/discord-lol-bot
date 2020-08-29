@@ -1,0 +1,12 @@
+{
+  "name": "SER5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "r": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
